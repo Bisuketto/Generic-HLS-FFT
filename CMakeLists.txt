@@ -5,7 +5,7 @@
 cmake_minimum_required(VERSION 3.16.3)
 include(CMakePrintHelpers)
 set(AP_TYPES_LIB_DIR
-    /mnt/c/Users/halmorin/Documents/THESE/dev/HLS_arbitrary_Precision_Types/include
+    /opt/Xilinx/Vivado/2020.2/include/
     CACHE PATH
     "Path to ap_types library directory for simulation"
 )
